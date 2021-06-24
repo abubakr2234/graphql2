@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+this is my first time working with graphql so it quite dowsnt work but the backend fetches the data from the starwarsapi but the front end doesnt work quite that well 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
